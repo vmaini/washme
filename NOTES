@@ -1,0 +1,5 @@
+- Documentation for the piezo vibration sensor can be found here (https://www.sparkfun.com/products/9199). We will need a resistor to scale the +/-90V it can provide to 5V (keep in mind that the circuitry itself has a resistive effect)
+- If using the sensor becomes too complicated we can buy an accelerometer instead
+- Print out readings and paste to Excel for analyzing trends
+- Make sure the loop runs in <5ms, adjust the sample rate accordingly
+
